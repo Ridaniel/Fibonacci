@@ -13,3 +13,4 @@ To implement the Fibonacci sequence, I used Dynamic Programming to make it as ef
 * Adding some form of security to ensure only authorized individuals can use the API, such as JWT or OAuth.
 * Incorporating documentation, such as OpenAPI, to document the API.
 * Adding more unit tests.
+* We could also add a test pipeline and a deployment pipelne.
