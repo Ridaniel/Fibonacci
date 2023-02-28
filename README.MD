@@ -5,6 +5,7 @@ For this REST API, I used Spring due to my familiarity with this framework. Spri
 To build the API, I used Spring Web and Spring Framework. I divided the project into infrastructure and application to keep the program logic separate from what is necessary for the REST API.
 
 To implement the Fibonacci sequence, I used Dynamic Programming to make it as efficient as possible. I also added a cache to avoid having to repeat the process.
+And to manage really big numbers , I used the library BigNumber and transform them to String.
 
 ### For future improvements, I would consider:
 
